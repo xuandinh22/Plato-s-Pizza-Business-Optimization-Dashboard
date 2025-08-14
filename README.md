@@ -32,7 +32,7 @@ Plato’s Pizza recently began collecting detailed transactional data to gain a 
 
 •	Sales Performance & Product Insights: Identify best- and worst-selling menu items to inform pricing, ingredient adjustments, or menu redesign.
 
-Data Source: <a href="https://www.mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=2">Maven Analytics: Pizza Place Sales</a>
+Data Source: <a href="https://www.mavenanalytics.io/data-playground/pizza-place-sales?pageSize=1000">Maven Analytics: Pizza Place Sales</a>
 
 An Interactive Tableau dashboard can be downloaded <a href="https://public.tableau.com/app/profile/xuan.dinh8619/viz/Pizza_Dashboard_17548842440700/Dashboard?publish=yes">(here)</a>,
 
