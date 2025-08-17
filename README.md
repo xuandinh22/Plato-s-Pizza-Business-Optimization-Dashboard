@@ -1,4 +1,4 @@
-# Plato's Pizza Business Optimization Dashboard
+# Plato's Pizza: Business Optimization 
 ## Background and Overview
 Plato’s Pizza recently began collecting detailed transactional data to gain a deeper understanding of its business performance and customer behavior. With a full year data now available, the restaurant has an opportunity to move beyond intuition and make data-driven decisions. This project leverages that dataset to explore patterns in customer demand, seating utilization, and sales performance, aiming to uncover actionable insights. The ultimate goal is to identify opportunities to optimize operations, improve cost efficiency, and enhance overall profitability.
 
