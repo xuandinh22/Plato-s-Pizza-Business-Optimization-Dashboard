@@ -34,11 +34,11 @@ Plato’s Pizza recently began collecting detailed transactional data to gain a 
 
 Data Source: <a href="https://www.mavenanalytics.io/data-playground/pizza-place-sales?pageSize=1000">Maven Analytics: Pizza Place Sales</a>
 
-An Interactive Tableau dashboard can be downloaded <a href="https://public.tableau.com/app/profile/xuan.dinh8619/viz/Pizza_Dashboard_17548842440700/Dashboard?publish=yes">(here)</a>,
+An Interactive Tableau dashboard can be downloaded <a href="https://public.tableau.com/app/profile/xuan.dinh8619/viz/Pizza_Dashboard_17548842440700/Dashboard?publish=yes">here</a>.
 
-The SQL queries utilized for Data Quality Checks & Preparation can be found <a href="https://github.com/xuandinh22/Plato-s-Pizza-Business-Optimization-Dashboard/blob/main/Data%20Quality%20Checks%20%26%20Preparation.sql">(here)</a>.
+The SQL queries utilized for Data Quality Checks & Preparation can be found <a href="https://github.com/xuandinh22/Plato-s-Pizza-Business-Optimization-Dashboard/blob/main/Data%20Quality%20Checks%20%26%20Preparation.sql">here</a>.
 
-The initial dashboard mockup can be found <a href="https://github.com/xuandinh22/Plato-s-Pizza-Business-Optimization-Dashboard/blob/main/Dashboard%20Mockup.pdf">(here)</a>.
+The initial dashboard mockup can be found <a href="https://github.com/xuandinh22/Plato-s-Pizza-Business-Optimization-Dashboard/blob/main/Dashboard%20Mockup.pdf">here</a>.
 
 ## Data Structure Overview
 The dataset contains 4 tables, representing a full year of sales for a pizza restaurant: Orders, Order Details, Pizzas, and Pizza Types.
