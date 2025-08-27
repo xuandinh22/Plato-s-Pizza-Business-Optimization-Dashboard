@@ -8,7 +8,7 @@ Plato’s Pizza recently began collecting detailed transactional data to gain a 
 
 •	Tableau: Building dashboard
 
-•	Draw.oi: The initial dashboard mockup 
+•	Draw.io: The initial dashboard mockup 
 
 •	Flaticon: Icon sourcing
 
